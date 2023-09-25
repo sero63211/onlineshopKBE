@@ -1,0 +1,87 @@
+{"properties": [
+  {
+    "name": "status",
+    "type": "java.lang.String",
+    "description": "A description for 'status'"
+  },
+  {
+    "name": "name",
+    "type": "java.lang.String",
+    "description": "A description for 'name'"
+  },
+  {
+    "name": "filters",
+    "type": "java.lang.String",
+    "description": "A description for 'filters'"
+  },
+  {
+    "name": "filter.threshold.type",
+    "type": "java.lang.String",
+    "description": "A description for 'filter.threshold.type'"
+  },
+  {
+    "name": "filter.threshold.level",
+    "type": "java.lang.String",
+    "description": "A description for 'filter.threshold.level'"
+  },
+  {
+    "name": "appenders",
+    "type": "java.lang.String",
+    "description": "A description for 'appenders'"
+  },
+  {
+    "name": "appender.console.type",
+    "type": "java.lang.String",
+    "description": "A description for 'appender.console.type'"
+  },
+  {
+    "name": "appender.console.name",
+    "type": "java.lang.String",
+    "description": "A description for 'appender.console.name'"
+  },
+  {
+    "name": "appender.console.layout.type",
+    "type": "java.lang.String",
+    "description": "A description for 'appender.console.layout.type'"
+  },
+  {
+    "name": "appender.console.layout.pattern",
+    "type": "java.lang.String",
+    "description": "A description for 'appender.console.layout.pattern'"
+  },
+  {
+    "name": "rootLogger.level",
+    "type": "java.lang.String",
+    "description": "A description for 'rootLogger.level'"
+  },
+  {
+    "name": "rootLogger.appenderRefs",
+    "type": "java.lang.String",
+    "description": "A description for 'rootLogger.appenderRefs'"
+  },
+  {
+    "name": "rootLogger.appenderRef.stdout.ref",
+    "type": "java.lang.String",
+    "description": "A description for 'rootLogger.appenderRef.stdout.ref'"
+  },
+  {
+    "name": "bezkoder.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtSecret'"
+  },
+  {
+    "name": "bezkoder.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtExpirationMs'"
+  },
+  {
+    "name": "quickbuyshopping.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'quickbuyshopping.app.jwtSecret'"
+  },
+  {
+    "name": "quickbuyshopping.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'quickbuyshopping.app.jwtExpirationMs'"
+  }
+]}
