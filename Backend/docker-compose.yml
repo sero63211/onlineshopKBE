@@ -1,0 +1,46 @@
+services:
+
+  eureka-service:
+    image: eureka-service:latest
+    ports:
+      - "9994:9994"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql_db:3307/onlineshop1?createDatabaseIfNotExist=true&autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false
+  user-mgmt-service:
+    image: user-mgmt-service:latest
+    depends_on:
+      - eureka-service
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql_db:3307/onlineshop1?createDatabaseIfNotExist=true&autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false
+  product-service:
+    image: product-service:latest
+    depends_on:
+      - eureka-service
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql_db:3307/onlineshop1?createDatabaseIfNotExist=true&autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false
+  payment-service:
+    image: payment-service:latest
+    depends_on:
+      - eureka-service
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql_db:3307/onlineshop1?createDatabaseIfNotExist=true&autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false
+  order-service:
+    image: order-service:latest
+    depends_on:
+      - eureka-service
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql_db:3307/onlineshop1?createDatabaseIfNotExist=true&autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false
+  notification-service:
+    image: notification-service:latest
+    depends_on:
+      - eureka-service
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql_db:3307/onlineshop1?createDatabaseIfNotExist=true&autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false
+  api-gateway:
+    image: api-gateway:latest
+    ports:
+      - "8080:8080"
+    depends_on:
+      - eureka-service
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql_db:3307/onlineshop1?createDatabaseIfNotExist=true&autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false
