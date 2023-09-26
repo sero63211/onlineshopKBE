@@ -1,0 +1,6 @@
+/Users/sero6321/Desktop/final_delivery/Microservices/notification-service/src/main/java/com/onlineshop/notify/service/NotificationServiceApplication.java
+/Users/sero6321/Desktop/final_delivery/Microservices/notification-service/src/main/java/com/onlineshop/notify/service/dto/ItemsDto.java
+/Users/sero6321/Desktop/final_delivery/Microservices/notification-service/src/main/java/com/onlineshop/notify/service/service/RabbitMQConsumer.java
+/Users/sero6321/Desktop/final_delivery/Microservices/notification-service/src/main/java/com/onlineshop/notify/service/dto/Product.java
+/Users/sero6321/Desktop/final_delivery/Microservices/notification-service/src/main/java/com/onlineshop/notify/service/dto/CartDto.java
+/Users/sero6321/Desktop/final_delivery/Microservices/notification-service/src/main/java/com/onlineshop/notify/service/dto/RequestEmailData.java
