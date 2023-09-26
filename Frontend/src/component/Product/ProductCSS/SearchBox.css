@@ -1,0 +1,26 @@
+.search-container {
+    display: flex;
+    justify-content: right;
+    margin-right: 2%;
+    
+  }
+  
+  .search-box {
+    width: 30%;
+    max-width: 900px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 20px ;
+    border: 0.2px solid;
+    
+    color: #1137df;
+    outline: auto;
+    outline-style:var(#1137df);
+    box-shadow: 0px 0px 1px #ccc;
+    font-size: 16px;
+  }
+
+  ::placeholder {
+    color: #598ec7;
+  }
+  

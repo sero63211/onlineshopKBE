@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+ 
+* {
+  font-family: 'Roboto', sans-serif;
+   
+    
+}
+
+
+
+
+.color1{
+  background-color: #7bb8b1;
+}
+
+.color1:hover {
+
+  background-color: #7bb8b1;
+}
+ 
+
+.image-wrapper {
+    width: 100%;
+    border-radius: var(--radius);
+    
+    /* Sets aspect ratio to 1:1 */
+  }
+  
+  .responsive-image {
+    height:'170';
+    width: 100%;
+    /* object-fit: cover;
+    transition: .5s ease;
+    backface-visibility: hidden; */
+    /* Ensures the image covers the entire div */
+  }
+
+  .responsive-image:hover {
+ 
+    opacity: 0.7;
+    background-color: cornflowerblue;
+    
+
+
+  }
+
+  .text {
+    background-color: #04AA6D;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+  }
+
+  .add-to-cart-button {
+    
+    border: 0.1px solid #7bb8b1;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 100%;
+     
+    transition: background-color 1s ease;
+  }
+  
+  .add-to-cart-button:hover {
+    background-color: #7bb8b1;
+    color: rgb(26, 24, 24);
+    
+  }
+
+  .edit-button {
+
+    border: 0.2px solid #7bb8b1;
+    color: #7bb8b1;
+    padding: -2px 50px;
+    font-size: small;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 40px;
+    cursor: pointer;
+    top: -3px;
+    width: 300px;
+     
+    transition: background-color 1s ease;
+
+  }.edit-button:hover {
+    background-color: #d3d633;
+    color: rgb(236, 227, 227);
+  }
+ 
+
+
+  .table-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 1%;
+    overflow: auto;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin: 1em 0;
+    width: 50%;
+    table-layout: fixed;
+  }
+  
+  thead   {
+    background-color: #8a7791;
+    font-weight: bold;
+    text-align: left;
+    padding: 5%;
+    width: 50%;
+  }
+  
+  tbody td {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+    
+  }
+  
+  tbody tr:hover {
+    background-color: #b8bcf0;
+  }
+
+  
