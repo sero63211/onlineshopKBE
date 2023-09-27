@@ -4,11 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbaba16e-686e-42b2-9e66-264f39896490" name="Changes" comment="" />
+    <list default="true" id="1fcbd2e9-ecc9-49c7-af23-c4e8ec3b8b3a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../eureka-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/#ib_16384_0.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/#ib_16384_0.dblwr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/#innodb_redo/#ib_redo10" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/#innodb_redo/#ib_redo10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_1.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_1.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_10.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_10.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_2.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_2.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_3.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_3.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_4.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_4.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_5.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_5.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_6.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_6.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_7.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_7.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_8.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_8.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_9.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/#innodb_temp/temp_9.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/binlog.000007" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/binlog.000007" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/binlog.index" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/binlog.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/ib_buffer_pool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/ibtmp1" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/ibtmp1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/mysql.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/undo_001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql_home/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/../mysql_home/undo_002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -24,7 +51,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectId" id="2VIQ56h8WzTnbt9VTL8wRU2Uzei" />
+  <component name="ProjectId" id="2VyaGUfYu25XnAMEbl6TljdTmm7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,17 +59,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/sero6321/Desktop/final_delivery/Microservices/notification-service"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/sero6321/Desktop/kbeonlineshop/onlineshopKBE/Backend/notification-service"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fbaba16e-686e-42b2-9e66-264f39896490" name="Changes" comment="" />
-      <created>1694520928812</created>
+      <changelist id="1fcbd2e9-ecc9-49c7-af23-c4e8ec3b8b3a" name="Changes" comment="" />
+      <created>1695810678425</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1694520928812</updated>
+      <updated>1695810678425</updated>
     </task>
     <servers />
   </component>
