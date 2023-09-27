@@ -1,6 +1,6 @@
-com/onlineshop/notify/service/NotificationServiceApplication.class
-com/onlineshop/notify/service/dto/CartDto.class
-com/onlineshop/notify/service/dto/Product.class
-com/onlineshop/notify/service/dto/ItemsDto.class
-com/onlineshop/notify/service/dto/RequestEmailData.class
-com/onlineshop/notify/service/service/RabbitMQConsumer.class
+com\onlineshop\notify\service\dto\RequestEmailData.class
+com\onlineshop\notify\service\service\RabbitMQConsumer.class
+com\onlineshop\notify\service\NotificationServiceApplication.class
+com\onlineshop\notify\service\dto\ItemsDto.class
+com\onlineshop\notify\service\dto\Product.class
+com\onlineshop\notify\service\dto\CartDto.class
